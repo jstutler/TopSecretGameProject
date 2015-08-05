@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>876632</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>TopSecretGameProject</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.8.1-2591939+++depot+UE4-Releases+4.8</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<DefaultLocale>en_US</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName>MadTofu</UserName>
+<BaseDir>C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/4.8/</RootDir>
+<MachineId>65DDA06D46FEE1B9BBE2C0AC367F180E</MachineId>
+<EpicAccountId>b3cd9792526d477bbf1ee073b21633e6</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Assertion failed: !DelegateInstanceInterface->IsSameFunction(*InDelegateInstance) [File:d:\buildfarm\buildmachine_++depot+ue4-releases+4.8\engine\source\runtime\core\public\delegates\DelegateSignatureImpl_Variadics.inl] [Line: 1003] 
+
+</ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>       Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GTX 780 Ti </MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 7</MiscOSVersionMajor>
+<MiscOSVersionMinor>Service Pack 1</MiscOSVersionMinor>
+<MemoryStatsTotalPhysical>17179869184</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>8796092891136</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>16</MemoryStatsTotalPhysicalGB>
+</RuntimeProperties>
+<PlatformProperties>
+<Platform.IsRunningWindows>1</Platform.IsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
